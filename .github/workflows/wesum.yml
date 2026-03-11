@@ -8,7 +8,7 @@ on:
     # 北京时间 10:00 = UTC 时间 2:00
     # 北京时间 11:00 = UTC 时间 3:00
     # GitHub Actions 有时会延迟，这是正常现象
-    - cron: '0 * * * *'
+    - cron: '0 0,6 * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
