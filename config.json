@@ -1,8 +1,353 @@
 {
   "rss_subscriptions": [
     {
-      "name": "所有公众号",
+      "name": "上海勘察设计",
       "url": "https://newspace.zeabur.app/feeds/MP_WXS_3572698776.rss",
+      "enabled": true
+    },
+    {
+      "name": "安徽省工程勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3209364215.rss",
+      "enabled": true
+    },
+    {
+      "name": "安徽土木建筑学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3291604356.rss",
+      "enabled": true
+    },
+    {
+      "name": "安徽省建筑装饰协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3525808298.rss",
+      "enabled": true
+    },
+    {
+      "name": "北京工程勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3291591303.rss",
+      "enabled": true
+    },
+    {
+      "name": "重庆市勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3909216655.rss",
+      "enabled": true
+    },
+    {
+      "name": "福建省勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3228826919.rss",
+      "enabled": true
+    },
+    {
+      "name": "广东建筑业",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3270194664.rss",
+      "enabled": true
+    },
+    {
+      "name": "广东勘察设计",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3012721409.rss",
+      "enabled": true
+    },
+    {
+      "name": "广东省风景园林与生态景观协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3072636324.rss",
+      "enabled": true
+    },
+    {
+      "name": "广东省国土空间规划协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3223734410.rss",
+      "enabled": true
+    },
+    {
+      "name": "广西勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3287309267.rss",
+      "enabled": true
+    },
+    {
+      "name": "规划建设前沿",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3248749379.rss",
+      "enabled": true
+    },
+    {
+      "name": "贵州省工程勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3218270908.rss",
+      "enabled": true
+    },
+    {
+      "name": "海南省城市规划协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3912254620.rss",
+      "enabled": true
+    },
+    {
+      "name": "海南省建筑装饰协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3529502426.rss",
+      "enabled": true
+    },
+    {
+      "name": "海南省勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3886941997.rss",
+      "enabled": true
+    },
+    {
+      "name": "海南省土木建筑学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3576679089.rss",
+      "enabled": true
+    },
+    {
+      "name": "河北省工程勘察设计咨询协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3895739640.rss",
+      "enabled": true
+    },
+    {
+      "name": "河北省建筑装饰业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3008279480.rss",
+      "enabled": true
+    },
+    {
+      "name": "河南工程勘察设计",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3218654642.rss",
+      "enabled": true
+    },
+    {
+      "name": "河南建筑业",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3003379160.rss",
+      "enabled": true
+    },
+    {
+      "name": "河南省城市规划协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3899615120.rss",
+      "enabled": true
+    },
+    {
+      "name": "河南省风景园林学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3084244454.rss",
+      "enabled": true
+    },
+    {
+      "name": "河南省建筑装饰装修协会HNBDA",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3247706438.rss",
+      "enabled": true
+    },
+    {
+      "name": "湖北省国土空间规划学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3931286106.rss",
+      "enabled": true
+    },
+    {
+      "name": "湖北省勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3250792599.rss",
+      "enabled": true
+    },
+    {
+      "name": "湖南省国土空间规划学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3205047672.rss",
+      "enabled": true
+    },
+    {
+      "name": "嘉定人社",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3277591243.rss",
+      "enabled": true
+    },
+    {
+      "name": "江苏省风景园林协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3538050646.rss",
+      "enabled": true
+    },
+    {
+      "name": "江苏省勘察设计行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3095066458.rss",
+      "enabled": true
+    },
+    {
+      "name": "江苏省室内设计学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3219017343.rss",
+      "enabled": true
+    },
+    {
+      "name": "建设通",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3552056110.rss",
+      "enabled": true
+    },
+    {
+      "name": "吉林省建筑业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3544099997.rss",
+      "enabled": true
+    },
+    {
+      "name": "吉林市建筑业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3877068037.rss",
+      "enabled": true
+    },
+    {
+      "name": "辽宁省建筑业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3203743036.rss",
+      "enabled": true
+    },
+    {
+      "name": "内蒙古自治区建筑业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3221247302.rss",
+      "enabled": true
+    },
+    {
+      "name": "内蒙古自治区勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3572356176.rss",
+      "enabled": true
+    },
+    {
+      "name": "人力资源和社会保障部",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3265436760.rss",
+      "enabled": true
+    },
+    {
+      "name": "山东省勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3219204261.rss",
+      "enabled": true
+    },
+    {
+      "name": "山东省住房和城乡建设厅",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3099232379.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海建安进修学校",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3226067346.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海留学生落户",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3896152445.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海人力资源",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3946393468.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海人力资源和社会保障",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3088343976.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海市城市规划行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3290706012.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海市工程咨询行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3201609240.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海市建设协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3011383866.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海市建筑施工行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3895675364.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海市绿色建筑协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3096352833.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海市室内装饰行业协会官方",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3205367163.rss",
+      "enabled": true
+    },
+    {
+      "name": "上海市园林绿化行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3510748720.rss",
+      "enabled": true
+    },
+    {
+      "name": "上勘设协室内设计分会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3936509424.rss",
+      "enabled": true
+    },
+    {
+      "name": "山西省建筑业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3948703138.rss",
+      "enabled": true
+    },
+    {
+      "name": "苏州市建筑行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3898917662.rss",
+      "enabled": true
+    },
+    {
+      "name": "苏州住建",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3564035585.rss",
+      "enabled": true
+    },
+    {
+      "name": "天津建筑业",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3010880998.rss",
+      "enabled": true
+    },
+    {
+      "name": "天津市勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3274869571.rss",
+      "enabled": true
+    },
+    {
+      "name": "浙江省国土空间规划学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3272436868.rss",
+      "enabled": true
+    },
+    {
+      "name": "浙江省建筑装饰行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3091843447.rss",
+      "enabled": true
+    },
+    {
+      "name": "浙江省勘察设计行业协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3964028643.rss",
+      "enabled": true
+    },
+    {
+      "name": "浙江园林",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3001399573.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国城市规划",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3075152290.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国城市规划协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3290395726.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国风景园林学会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3082440724.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国建筑业",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3526387939.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国建筑装饰协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3947610500.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国勘察设计协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3539970540.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国林业工程建设协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3869914119.rss",
+      "enabled": true
+    },
+    {
+      "name": "中国室内装饰协会",
+      "url": "https://newspace.zeabur.app/feeds/MP_WXS_3922251384.rss",
       "enabled": true
     }
   ],
