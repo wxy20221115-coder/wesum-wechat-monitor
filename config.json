@@ -10,5 +10,5 @@
     "max_hours": 24,
     "max_articles_per_run": null
   },
-  "enable_gist": false   // 添加这行，禁用 Gist 备份
+  "enable_gist": false
 }
